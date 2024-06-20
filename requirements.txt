@@ -1,7 +1,5 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-backtrader
-freqtrade
-yfinance
+backtrader==1.9.78.123
+matplotlib==3.9.0
+numpy==2.0.0
+pandas==2.2.2
+
